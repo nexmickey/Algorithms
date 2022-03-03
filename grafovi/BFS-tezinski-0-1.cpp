@@ -43,5 +43,4 @@ int main()
            graf[b].push_back({a,tez});
        }
     najkraci_put(graf, rastojanje, 0);
-
 }
