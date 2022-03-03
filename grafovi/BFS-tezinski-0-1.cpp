@@ -1,4 +1,4 @@
-//najkraci put u tezinskom grafu 0-1  (lista povezanosti+BFS)
+//najkraci put u tezinskom grafu 0-1   (lista povezanosti+BFS)
 #include<bits/stdc++.h>
 using namespace std;
 
